@@ -14,4 +14,5 @@ Frontend/BI: An interactive Power BI dashboard (Hospital performance dashboard.p
 Data Connectivity
 The Power BI dashboard connects to the database via the backend API to ensure data integrity.
 
+
 Users can interact with the dashboard using Department buttons (e.g., Cardiology, Emergency) and Slicers for Insurance and Case Type to filter the admission volume and outcomes.
